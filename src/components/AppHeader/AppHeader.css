@@ -1,0 +1,13 @@
+.AppHeader {
+    align-items: center;
+}
+
+.AppHeader h1 {
+    flex-grow: 1;
+    margin-right: 3rem;
+}
+
+.AppHeader h2 {
+    font-size: 1.4rem;
+    color: grey;
+}
