@@ -5,11 +5,13 @@
 /.pnp
 .pnp.js
 
-# testing
+# Folders
+/.idea
+/build
 /coverage
 
-# production
-/build
+# Files
+*.iml
 
 # misc
 .DS_Store
