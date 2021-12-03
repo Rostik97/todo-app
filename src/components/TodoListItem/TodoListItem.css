@@ -1,0 +1,31 @@
+.TodoListItem {
+    font-size: 1.25rem;
+}
+
+.TodoListItem button {
+    width: 35px;
+    margin: 3px;
+}
+
+.TodoListItemLabel {
+    margin-left: 1.25rem;
+    line-height: 35px;
+    cursor: pointer;
+    user-select: none;
+}
+
+ .fa-exclamation {
+    color: darkorange;
+}
+.btn-outline-warning{
+    color: darkorange;
+
+}
+.TodoListItem.done .TodoListItemLabel {
+    text-decoration: line-through;
+}
+
+.TodoListItem.important .TodoListItemLabel {
+    font-weight: bold;
+    color: steelblue;
+}
