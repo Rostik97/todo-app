@@ -3,11 +3,12 @@
 }
 
 .AppHeader h1 {
+    font-size: 2.7rem;
     flex-grow: 1;
-    margin-right: 3rem;
+    margin-right: 2rem;
 }
 
 .AppHeader h2 {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     color: grey;
 }
